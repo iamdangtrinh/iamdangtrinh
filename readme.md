@@ -7,12 +7,12 @@ I'm developer Wordpress, PHP, Laravel
 I have been learning to code for 3 years, I learning HTML, CSS, JS, Framework laravel, Next, Wordpress, Nodejs... I have join project reality same: E-Learning, Ecommerce, CMS...
 
 * 🌍  I'm based in VIET NAM
-* 🖥️  See my portfolio at [You can visit at:](http://github.com/dtrinhdev28)
+* 🖥️  See my portfolio at [You can visit at:](http://github.com/iamdangtrinh)
 * ✉️  You can contact me at [dtrinhit04@gmail.com](mailto:dtrinhit04@gmail.com)
 * 🧠  I'm learning Laravel,
 
-<a href="https://www.github.com/dtrinhdev28" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/dtrinhdev28?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
+<a href="https://www.github.com/iamdangtrinh" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/iamdangtrinh?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -24,16 +24,16 @@ src="https://img.shields.io/github/followers/dtrinhdev28?logo=github&style=for-t
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/dtrinh28" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/dtrinhdev28" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/dtrinhit04" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.facebook.com/dtrinh28" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/iamdangtrinh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/dtrinhit04" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/dtrinhdev28"><img src="https://github-readme-stats.vercel.app/api?username=dtrinhdev28&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="dtrinhdev28's GitHub stats" /></a>
+<a href="http://www.github.com/iamdangtrinh"><img src="https://github-readme-stats.vercel.app/api?username=iamdangtrinh&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="iamdangtrinh's GitHub stats" /></a>
 
-<a href="http://www.github.com/dtrinhdev28"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dtrinhdev28&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/iamdangtrinh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamdangtrinh&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/dtrinhdev28"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=dtrinhdev28&bg_color=1c1917&color=ffffff&line=facc15&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/iamdangtrinh"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=iamdangtrinh&bg_color=1c1917&color=ffffff&line=facc15&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/dtrinhdev28" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtrinhdev28&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/iamdangtrinh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdangtrinh&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
