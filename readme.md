@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Đăng Trình</h1>
-<h3 align="center">I have to code for 3 years, I learning HTML, CSS, JS, Framework laravel, Next, Wordpress, Nodejs... I have join project reality same: E-Learning, Ecommerce, CMS...</h3>
+<h3 align="center">I have participated in real projects such as: E-Learning, E-commerce, CMS... using php, javaScript, nextjs. Besides, I have learned about devops and deployed many projects using docker and github action such as: react, nextjs, java spring boot.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamdangtrinh&label=Profile%20views&color=0e75b6&style=flat" alt="iamdangtrinh" /> </p>
 
