@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Đăng Trình</h1>
-<h3 align="center">I have more than 1 year of experience in real projects such as: E-Learning, E-commerce, CMS... using php, laravel, github, docker, javaScript, nextjs... Besides, I have learned about devops and deployed projects such as: react, nextjs, postgresql.</h3>
+<h3 align="center">I am a web developer with over a year of experience working on real-world projects, including E-Learning, E-Commerce, and CMS platforms. My expertise lies in PHP, Laravel, GitHub, Docker, JavaScript, and Next.js.
+
+Beside, I have learn DevOps and successfully deployed projects using React, Next.js, and PostgreSQL. I am want about building scalable web applications and continuously improving my skills in development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamdangtrinh&label=Profile%20views&color=0e75b6&style=flat" alt="iamdangtrinh" /> </p>
 
