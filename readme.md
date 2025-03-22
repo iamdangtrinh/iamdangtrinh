@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Đăng Trình</h1>
-<h3 align="center">I am a web developer with over a year of experience working on real-world projects, including E-Learning, E-Commerce, and CMS platforms. My expertise lies in PHP, Laravel, GitHub, Docker, JavaScript, and Next.js.
-
-Beside, I have learn DevOps and successfully deployed projects using React, Next.js, and PostgreSQL. I am want about building scalable web applications and continuously improving my skills in development.</h3>
+<h3 align="center">I am a web developer with over a year of experience building real-world applications, including E-Learning, E-Commerce, and CMS platforms. My expertise includes PHP, Node.js, WordPress, Laravel, JavaScript, React, Next.js, and Docker, along with GitHub for source code management. I also use tools like Postman, Docker, and Git to streamline the development process. Additionally, I have worked on projects using React, Next.js, PostgreSQL, and Java Spring Boot. Committed to continuous learning, I strive to improve my skills and increase my professional value.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamdangtrinh&label=Profile%20views&color=0e75b6&style=flat" alt="iamdangtrinh" /> </p>
 
